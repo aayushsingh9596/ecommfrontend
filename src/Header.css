@@ -1,0 +1,45 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 15vh;
+    border: 1px solid black;
+}
+
+.header__left>a>img {
+    width: 20vw;
+    height: 10vh;
+}
+
+.header__center>input {
+    width: 40vw;
+    height: 5vh;
+    border: 2px solid black;
+}
+
+.header__right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40vw;
+}
+
+.profile>img {
+    width: 10vw;
+    height: 10vh;
+}
+
+.cart>a>img {
+    width: 10vw;
+    height: 10vh;
+}
+
+.become__seller>img {
+    width: 10vw;
+    height: 10vh;
+}
+
+.menu>img {
+    width: 10vw;
+    height: 10vh;
+}

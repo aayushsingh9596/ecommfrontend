@@ -1,0 +1,6 @@
+.categories{
+    display: flex;
+    height: 15vh;
+    border: 1px solid black;
+    background-color: aqua;
+}

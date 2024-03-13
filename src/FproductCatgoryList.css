@@ -1,0 +1,4 @@
+.FproductCatgoryList{
+    display: flex;
+    flex-direction: row;
+}
